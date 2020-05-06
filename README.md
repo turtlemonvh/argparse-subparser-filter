@@ -1,4 +1,4 @@
-# Add Arg
+# Argparse Subparser Filter
 
 Python library to make it easy to add an argument to any of many recursive [argparse](https://docs.python.org/3.8/library/argparse.html) subparsers based on properties.
 
